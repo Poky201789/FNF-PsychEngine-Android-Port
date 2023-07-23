@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="admintv.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tvtv0000" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0001" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0002" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0003" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0004" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0005" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0006" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0007" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0008" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0009" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0010" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0011" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0012" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0013" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0014" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0015" x="30" y="30" width="1330" height="457" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0016" x="1390" y="30" width="1330" height="455" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0017" x="1390" y="30" width="1330" height="455" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0018" x="30" y="517" width="1330" height="428" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0019" x="1390" y="517" width="1330" height="428" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0020" x="1390" y="517" width="1330" height="428" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0021" x="30" y="975" width="1330" height="441" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0022" x="30" y="975" width="1330" height="441" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0023" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0024" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0025" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0026" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0027" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0028" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0029" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0030" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0031" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0032" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0033" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0034" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0035" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0036" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0037" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0038" x="1390" y="975" width="1330" height="439" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0039" x="30" y="1446" width="1330" height="449" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0040" x="30" y="1446" width="1330" height="449" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0041" x="1390" y="1446" width="1330" height="450" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0042" x="30" y="1926" width="1330" height="452" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0043" x="30" y="1926" width="1330" height="452" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0044" x="1390" y="1926" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0045" x="1390" y="1926" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0046" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0047" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0048" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0049" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0050" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0051" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0052" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0053" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0054" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0055" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0056" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0057" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0058" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0059" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0060" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0061" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0062" x="30" y="2416" width="1330" height="460" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0063" x="1390" y="2416" width="1330" height="461"/>
+	<SubTexture name="tvtv0064" x="1390" y="2416" width="1330" height="461"/>
+	<SubTexture name="tvtv0065" x="1390" y="30" width="1330" height="455" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0066" x="30" y="2907" width="1330" height="452" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0067" x="30" y="2907" width="1330" height="452" frameX="0" frameY="0" frameWidth="1330" frameHeight="461"/>
+	<SubTexture name="tvtv0068" x="1390" y="2907" width="1330" height="461"/>
+	<SubTexture name="tvtv0069" x="1390" y="2907" width="1330" height="461"/>
+</TextureAtlas>
