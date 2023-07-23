@@ -1,7 +1,7 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
-	"runsGlobally": false,
-	"color": [170, 0, 255]
+	"name": "Suspicious Funkin' V1",
+	"description": "Version 1 of Suspicious Funkin' is finally here! Face off against the Purple Impostor in a Visually and Auditorily amazing 3 song week. Good luck and have fun! (FLASHING LIGHTS WARNING)",
+	"restart": true,
+	"runsGlobally": true,
+	"color": [126, 53, 213]
 }
