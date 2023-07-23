@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tableadmin.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="table0000" x="30" y="30" width="830" height="269" frameX="0" frameY="-1" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0001" x="890" y="30" width="830" height="267" frameX="0" frameY="-3" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0002" x="30" y="329" width="830" height="266" frameX="0" frameY="-4" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0003" x="890" y="329" width="830" height="265" frameX="0" frameY="-5" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0004" x="30" y="625" width="830" height="264" frameX="0" frameY="-6" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0005" x="890" y="329" width="830" height="265" frameX="0" frameY="-6" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0006" x="890" y="625" width="830" height="265" frameX="0" frameY="-5" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0007" x="30" y="920" width="830" height="266" frameX="0" frameY="-4" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0008" x="890" y="920" width="830" height="268" frameX="0" frameY="-2" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0009" x="30" y="1218" width="830" height="268" frameX="0" frameY="-2" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0010" x="30" y="30" width="830" height="269" frameX="0" frameY="-1" frameWidth="830" frameHeight="270"/>
+	<SubTexture name="table0011" x="890" y="1218" width="830" height="270"/>
+	<SubTexture name="table0012" x="30" y="1518" width="830" height="270"/>
+	<SubTexture name="table0013" x="30" y="1518" width="830" height="270"/>
+</TextureAtlas>
