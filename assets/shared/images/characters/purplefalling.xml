@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="purplefalling.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pd0000" x="30" y="30" width="1206" height="1005"/>
+	<SubTexture name="pd0001" x="1266" y="30" width="1206" height="1005"/>
+	<SubTexture name="pd0002" x="2502" y="30" width="1206" height="1005"/>
+	<SubTexture name="pd0003" x="3738" y="30" width="1206" height="1005"/>
+	<SubTexture name="pd0004" x="4974" y="30" width="1206" height="1005"/>
+	<SubTexture name="pi0000" x="6210" y="30" width="868" height="692" frameX="-37" frameY="-31" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0001" x="7108" y="30" width="863" height="690" frameX="-40" frameY="-34" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0002" x="30" y="1065" width="870" height="691" frameX="-41" frameY="-49" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0003" x="930" y="1065" width="907" height="704" frameX="-18" frameY="-72" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0004" x="1867" y="1065" width="930" height="704" frameX="-3" frameY="-81" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0005" x="2827" y="1065" width="939" height="782" frameX="0" frameY="-74" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0006" x="3796" y="1065" width="952" height="736" frameX="-1" frameY="-56" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0007" x="4778" y="1065" width="935" height="748" frameX="-18" frameY="-41" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0008" x="5743" y="1065" width="920" height="732" frameX="-36" frameY="-23" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0009" x="6693" y="1065" width="906" height="714" frameX="-43" frameY="-10" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0010" x="30" y="1877" width="889" height="730" frameX="-46" frameY="-1" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0011" x="949" y="1877" width="877" height="733" frameX="-41" frameY="0" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0012" x="1856" y="1877" width="872" height="719" frameX="-37" frameY="-11" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pi0013" x="2758" y="1877" width="869" height="710" frameX="-40" frameY="-22" frameWidth="956" frameHeight="863"/>
+	<SubTexture name="pl0000" x="3657" y="1877" width="979" height="716" frameX="-11" frameY="-22" frameWidth="1012" frameHeight="782"/>
+	<SubTexture name="pl0001" x="4666" y="1877" width="992" height="719" frameX="0" frameY="-25" frameWidth="1012" frameHeight="782"/>
+	<SubTexture name="pl0002" x="5688" y="1877" width="991" height="723" frameX="-4" frameY="-30" frameWidth="1012" frameHeight="782"/>
+	<SubTexture name="pl0003" x="6709" y="1877" width="922" height="730" frameX="-50" frameY="-26" frameWidth="1012" frameHeight="782"/>
+	<SubTexture name="pl0004" x="30" y="2640" width="850" height="782" frameX="-133" frameY="0" frameWidth="1012" frameHeight="782"/>
+	<SubTexture name="pr0000" x="910" y="2640" width="1097" height="575" frameX="-2" frameY="-28" frameWidth="1113" frameHeight="629"/>
+	<SubTexture name="pr0001" x="2037" y="2640" width="1113" height="563" frameX="0" frameY="-34" frameWidth="1113" frameHeight="629"/>
+	<SubTexture name="pr0002" x="3180" y="2640" width="1110" height="538" frameX="-1" frameY="-65" frameWidth="1113" frameHeight="629"/>
+	<SubTexture name="pr0003" x="4320" y="2640" width="1079" height="572" frameX="-7" frameY="-52" frameWidth="1113" frameHeight="629"/>
+	<SubTexture name="pr0004" x="5429" y="2640" width="964" height="622" frameX="-13" frameY="-7" frameWidth="1113" frameHeight="629"/>
+	<SubTexture name="pu0000" x="6423" y="2640" width="1530" height="1062"/>
+	<SubTexture name="pu0001" x="30" y="3732" width="1530" height="1062"/>
+	<SubTexture name="pu0002" x="1590" y="3732" width="1530" height="1062"/>
+	<SubTexture name="pu0003" x="3150" y="3732" width="1530" height="1062"/>
+	<SubTexture name="pu0004" x="4710" y="3732" width="1530" height="1062"/>
+</TextureAtlas>

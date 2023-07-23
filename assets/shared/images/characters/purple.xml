@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="purple.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pd0000" x="30" y="30" width="577" height="623" frameX="-35" frameY="-126" frameWidth="624" frameHeight="785"/>
+	<SubTexture name="pd0001" x="637" y="30" width="623" height="773" frameX="0" frameY="0" frameWidth="624" frameHeight="785"/>
+	<SubTexture name="pd0002" x="1290" y="30" width="523" height="766" frameX="-101" frameY="-19" frameWidth="624" frameHeight="785"/>
+	<SubTexture name="pd0003" x="1843" y="30" width="473" height="713" frameX="-141" frameY="-59" frameWidth="624" frameHeight="785"/>
+	<SubTexture name="pd0004" x="2346" y="30" width="489" height="610" frameX="-119" frameY="-119" frameWidth="624" frameHeight="785"/>
+	<SubTexture name="pi0000" x="2865" y="30" width="554" height="643" frameX="-11" frameY="-82" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0001" x="3449" y="30" width="558" height="645" frameX="-7" frameY="-86" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0002" x="4037" y="30" width="560" height="650" frameX="-2" frameY="-87" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0003" x="4627" y="30" width="562" height="651" frameX="0" frameY="-86" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0004" x="5219" y="30" width="552" height="656" frameX="-6" frameY="-80" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0005" x="5801" y="30" width="540" height="753" frameX="-13" frameY="0" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0006" x="6371" y="30" width="533" height="659" frameX="-19" frameY="-62" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0007" x="6934" y="30" width="532" height="646" frameX="-21" frameY="-72" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0008" x="7496" y="30" width="534" height="647" frameX="-19" frameY="-69" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0009" x="30" y="833" width="539" height="643" frameX="-16" frameY="-70" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0010" x="599" y="833" width="540" height="640" frameX="-16" frameY="-72" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0011" x="1169" y="833" width="541" height="639" frameX="-16" frameY="-73" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0012" x="1740" y="833" width="542" height="637" frameX="-16" frameY="-74" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pi0013" x="2312" y="833" width="540" height="636" frameX="-17" frameY="-74" frameWidth="565" frameHeight="753"/>
+	<SubTexture name="pl0000" x="2882" y="833" width="489" height="636" frameX="-137" frameY="-8" frameWidth="627" frameHeight="652"/>
+	<SubTexture name="pl0001" x="3401" y="833" width="599" height="644" frameX="-23" frameY="0" frameWidth="627" frameHeight="652"/>
+	<SubTexture name="pl0002" x="4030" y="833" width="621" height="629" frameX="0" frameY="-15" frameWidth="627" frameHeight="652"/>
+	<SubTexture name="pl0003" x="4681" y="833" width="600" height="623" frameX="-22" frameY="-21" frameWidth="627" frameHeight="652"/>
+	<SubTexture name="pl0004" x="5311" y="833" width="487" height="638" frameX="-140" frameY="-14" frameWidth="627" frameHeight="652"/>
+	<SubTexture name="pr0000" x="5828" y="833" width="666" height="648" frameX="-1" frameY="-15" frameWidth="754" frameHeight="671"/>
+	<SubTexture name="pr0001" x="6524" y="833" width="715" height="639" frameX="-34" frameY="-24" frameWidth="754" frameHeight="671"/>
+	<SubTexture name="pr0002" x="7269" y="833" width="719" height="626" frameX="-35" frameY="-37" frameWidth="754" frameHeight="671"/>
+	<SubTexture name="pr0003" x="30" y="1511" width="696" height="618" frameX="-35" frameY="-45" frameWidth="754" frameHeight="671"/>
+	<SubTexture name="pr0004" x="756" y="1511" width="616" height="671" frameX="0" frameY="0" frameWidth="754" frameHeight="671"/>
+	<SubTexture name="pu0000" x="1402" y="1511" width="583" height="683" frameX="-79" frameY="-12" frameWidth="692" frameHeight="719"/>
+	<SubTexture name="pu0001" x="2015" y="1511" width="663" height="719" frameX="-20" frameY="0" frameWidth="692" frameHeight="719"/>
+	<SubTexture name="pu0002" x="2708" y="1511" width="692" height="675" frameX="0" frameY="-15" frameWidth="692" frameHeight="719"/>
+	<SubTexture name="pu0003" x="3430" y="1511" width="653" height="665" frameX="-30" frameY="-22" frameWidth="692" frameHeight="719"/>
+	<SubTexture name="pu0004" x="4113" y="1511" width="606" height="635" frameX="-51" frameY="-8" frameWidth="692" frameHeight="719"/>
+</TextureAtlas>
