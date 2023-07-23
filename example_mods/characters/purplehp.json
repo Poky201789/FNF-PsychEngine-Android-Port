@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				146,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pl"
+		},
+		{
+			"offsets": [
+				92,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pd"
+		},
+		{
+			"offsets": [
+				148,
+				236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pu"
+		},
+		{
+			"offsets": [
+				-137,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pr"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pi"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/purplehalfparasite",
+	"position": [
+		-120,
+		10
+	],
+	"healthicon": "purple-fall",
+	"flip_x": false,
+	"healthbar_colors": [
+		170,
+		0,
+		255
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 6.09999999999999,
+	"scale": 1
+}
