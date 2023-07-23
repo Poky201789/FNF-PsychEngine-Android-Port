@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="platform.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pSpin0000" x="15" y="15" width="494" height="210" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0001" x="15" y="15" width="494" height="210" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0002" x="524" y="15" width="494" height="214"/>
+	<SubTexture name="pSpin0003" x="524" y="15" width="494" height="214"/>
+	<SubTexture name="pSpin0004" x="1033" y="15" width="494" height="210" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0005" x="1033" y="15" width="494" height="210" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0006" x="15" y="244" width="494" height="208" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0007" x="15" y="244" width="494" height="208" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0008" x="524" y="244" width="494" height="210" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0009" x="524" y="244" width="494" height="210" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0010" x="1033" y="244" width="494" height="208" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0011" x="1033" y="244" width="494" height="208" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0012" x="15" y="469" width="494" height="207" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+	<SubTexture name="pSpin0013" x="15" y="469" width="494" height="207" frameX="0" frameY="0" frameWidth="494" frameHeight="214"/>
+</TextureAtlas>
